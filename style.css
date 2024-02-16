@@ -1,1 +1,43 @@
+/*-----------------------------------------All selectors or backgrounds*/
+.bg-full{
+  background-image: url('https://www.jcshi-torque.co.uk/wp-content/uploads/2020/03/Constant_tension_hose_clamps.jpg');
+   background-position: center;
+}
 
+
+/*-----------------------------------------Product Image*/
+.img-Product{
+  width: 30%;
+  border: 3px solid black;
+  border-radius: 20px;
+}
+
+.img-Product-boxset{
+  float: end;
+  width: 50%;
+}
+
+/*-----------------------------------------Main Infomation*/
+.text-bg{
+  background-color: white;
+  margin: 5px;
+}
+/*-----------------------------------------List Styles*/
+.ul-styles>ul, li{
+  padding: 0px;
+  list-style-type: none;
+}
+.link-hover:hover{
+  background-color: rgba(105, 228, 255, 6);
+  border-radius: 12px;
+}
+
+/*-----------------------------------------Table Styles*/
+.table-styles{
+  padding: 0px;
+}
+
+/*-----------------------------------------Extra images*/
+.od-id-img{
+  width: 50%;
+}
