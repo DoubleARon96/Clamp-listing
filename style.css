@@ -38,6 +38,18 @@
 .table-styles{
   padding: 0px;
 }
+#clamp-table{
+  text-align: center;
+  margin: auto;
+  padding: 10px;
+  border: 1px solid black;
+  }
+#clamp-table>th{
+  padding: 10px;
+}
+#clamp-table>tbody,th, td, tr{
+  border: 1px solid black;
+}
 
 /*-----------------------------------------Extra images*/
 .od-id-img{
