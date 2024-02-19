@@ -1,4 +1,7 @@
 /*-----------------------------------------All selectors or backgrounds*/
+*{
+  font-family: "Verdana", Sans-Serif;
+}
 .bg-full{
   background-image: url('https://www.jcshi-torque.co.uk/wp-content/uploads/2020/03/Constant_tension_hose_clamps.jpg');
    background-position: center;
@@ -13,7 +16,6 @@
 }
 
 .img-Product-boxset{
-  float: end;
   width: 50%;
 }
 
